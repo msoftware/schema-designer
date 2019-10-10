@@ -26,7 +26,9 @@ header {
 
 .title strong {
     color: #ecf0f1;
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: normal;
 }
 
 .title sub {

@@ -59,7 +59,7 @@ class Header extends Component<Props> {
                 <div className='container'>
                     <div className='row'>
                         <div className='title col-xs-5 col-sm-4 text-left'>
-                            <strong>Schema Builder</strong>
+                            <strong>Room DB-Schema Builder</strong>
                         </div>
                         <div className='db-name col-xs-5 col-sm-4 text-center'>
                             <span><i className='fa fa-database'></i> { dbName }</span>
@@ -115,7 +115,7 @@ class Header extends Component<Props> {
                                         delayShow={ 300 }
                                         rootClose
                                     >
-                                        <a href='https://github.com/Agontuk/schema-designer'>
+                                        <a href='https://github.com/msoftware/schema-designer'>
                                             <i className='fa fa-github fa-lg' />
                                         </a>
                                     </OverlayTrigger>

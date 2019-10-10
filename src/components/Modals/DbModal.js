@@ -49,7 +49,7 @@ class DbModal extends Component<Props> {
                             className='form-control input-lg'
                             ref={ (dbname) => { this.dbname = dbname; } }
                             type='text'
-                            placeholder='Enter database name'
+                            placeholder='Enter room database name'
                             defaultValue={ name }
                             autoFocus
                         />

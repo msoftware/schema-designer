@@ -50,9 +50,12 @@ class ImportDatabase extends Component<{}> {
     }
 
     openFileSelectionWindow = () => {
+        alert('TODO: Import is not yet implemented.'); // TODO MJ
+        /*
         if (this.input) {
             this.input.click();
         }
+ */
     }
 
     render() {
